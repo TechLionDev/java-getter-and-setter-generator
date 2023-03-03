@@ -1,0 +1,12 @@
+appId: dev.techlion.java-getter-and-setter-generator
+productName: TechLion Dev's Java Getter And Setter Generator
+copyright: Copyright © 2023 TechLion Dev
+directories:
+  output: dist
+  buildResources: resources
+files:
+  - from: .
+    filter:
+      - package.json
+      - app
+publish: null
